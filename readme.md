@@ -12,7 +12,8 @@ Project Experience:
 - I am currently working on an e-commerce application that uses a microservices-based architecture.
 - Since there are multiple microservices, each development team is responsible for different parts.
 - As a DevOps Engineer, my main role is to work closely with two development teams to implement and improve DevOps practices.
-- I am responsible for creating and maintaining CI/CD pipelines, writing Terraform scripts to provision infrastructure, and managing Docker and Kubernetes deployments for these microservices.
+- I am responsible for creating and maintaining CI/CD pipelines, writing Terraform scripts to provision infrastructure,
+  and managing Docker and Kubernetes deployments for these microservices.
 - I also focus on continuously improving automation scripts for efficiency and reliability.
 
 Roles and Responsibilities:

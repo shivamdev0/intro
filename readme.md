@@ -1,8 +1,10 @@
 ```
-My name is Shivam Dubey. I have 4 years of experience as a DevOps Engineer and am currently working as a System Engineer at Infosys, focusing on AWS cloud platforms.
+My name is Shivam Dubey. I have 4 years of experience as a DevOps Engineer and am currently working as
+ a System Engineer at Infosys, focusing on AWS cloud platforms.
 
 Technical Skills:
-- I have hands-on experience with several DevOps tools, including Jenkins, CI/CD pipelines, Terraform, Docker, and Kubernetes (K8s).
+- I have hands-on experience with several DevOps tools, including Jenkins, CI/CD pipelines,
+ Terraform, Docker, and Kubernetes (K8s).
 - I am proficient with AWS cloud services like EC2, S3, IAM, VPC, and Lambda.
 - I am comfortable working with Linux command line and scripting using Bash and Python.
 
